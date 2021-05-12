@@ -3,5 +3,6 @@ JOY naa sticker
 
 Instructions:
 
-```git clone https://github.com/batatavadaX/JOY-special```
+<code>git clone https://github.com/batatavadaX/JOY-special</code>
+
 ```python3 main.py```
